@@ -7,3 +7,5 @@ In this project, I create an interactive dynamic dashboard including an dropdown
 In doing so, I write HTML and Javascript codes to read a .json dataset and build a dynamic dashboard which can be accessed on a web page. Below is a screenshots of different parts of the dashboard displaying information related to the indiciual with user ID of 940.
 
 ![This is an image](dashboard1.png)
+
+![This is an image](dashboard2.png)
